@@ -1,0 +1,4 @@
+﻿  HM20.cpp
+C:\Users\MF\VS\repos\Homework1\HM20\HM20.cpp(20,19): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\MF\VS\repos\Homework1\HM20\HM20.cpp(21,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  HM20.vcxproj -> C:\Users\MF\VS\repos\Homework1\HM20\x64\Debug\HM20.exe

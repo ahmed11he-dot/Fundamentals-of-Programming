@@ -1,0 +1,4 @@
+﻿  HM22.cpp
+C:\Users\MF\VS\repos\Homework1\HM22\HM22.cpp(23,22): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\MF\VS\repos\Homework1\HM22\HM22.cpp(25,18): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  HM22.vcxproj -> C:\Users\MF\VS\repos\Homework1\HM22\x64\Debug\HM22.exe

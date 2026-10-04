@@ -1,0 +1,3 @@
+﻿  HW16.cpp
+C:\Users\MF\VS\repos\Homework1\HW16\HW16.cpp(20,18): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  HW16.vcxproj -> C:\Users\MF\VS\repos\Homework1\HW16\x64\Debug\HW16.exe

@@ -1,0 +1,3 @@
+﻿  HM11.cpp
+C:\Users\MF\VS\repos\Homework1\HM11\HM11.cpp(26,44): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+  HM11.vcxproj -> C:\Users\MF\VS\repos\Homework1\HM11\x64\Debug\HM11.exe

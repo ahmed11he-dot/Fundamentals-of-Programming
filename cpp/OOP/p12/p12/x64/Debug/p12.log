@@ -1,0 +1,14 @@
+﻿  circle.cpp
+C:\Users\MF\VS\repos\OOP\p12\circle.h(16,10): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'circle.cpp')
+  
+  p12.cpp
+C:\Users\MF\VS\repos\OOP\p12\circle.h(16,10): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'p12.cpp')
+  
+C:\Users\MF\VS\repos\OOP\p12\p12.cpp(6,14): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\MF\VS\repos\OOP\p12\p12.cpp(7,11): warning C4305: 'argument': truncation from 'double' to 'float'
+  Rectangle.cpp
+  shape.cpp
+  Generating Code...
+  p12.vcxproj -> C:\Users\MF\VS\repos\OOP\p12\x64\Debug\p12.exe

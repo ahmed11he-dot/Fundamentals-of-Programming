@@ -1,0 +1,6 @@
+﻿  HM23.cpp
+C:\Users\MF\VS\repos\Homework1\HM23\HM23.cpp(21,6): warning C4215: nonstandard extension used: long float
+C:\Users\MF\VS\repos\Homework1\HM23\HM23.cpp(23,22): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\MF\VS\repos\Homework1\HM23\HM23.cpp(27,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\MF\VS\repos\Homework1\HM23\HM23.cpp(44,21): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  HM23.vcxproj -> C:\Users\MF\VS\repos\Homework1\HM23\x64\Debug\HM23.exe

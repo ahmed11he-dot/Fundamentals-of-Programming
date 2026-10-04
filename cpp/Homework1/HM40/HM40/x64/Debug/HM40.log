@@ -1,0 +1,3 @@
+﻿  HM40.cpp
+C:\Users\MF\VS\repos\Homework1\HM40\HM40.cpp(23,21): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  HM40.vcxproj -> C:\Users\MF\VS\repos\Homework1\HM40\x64\Debug\HM40.exe

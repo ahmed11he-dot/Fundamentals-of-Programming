@@ -1,0 +1,3 @@
+﻿  p10.cpp
+C:\Users\MF\VS\repos\Codeforces\p10\p10.cpp(26,1): warning C4715: 'Result': not all control paths return a value
+  p10.vcxproj -> C:\Users\MF\VS\repos\Codeforces\p10\x64\Debug\p10.exe

@@ -1,0 +1,3 @@
+﻿  p3.cpp
+C:\Users\MF\VS\repos\OOP\p3\p3.cpp(33,32): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+  p3.vcxproj -> C:\Users\MF\VS\repos\OOP\p3\x64\Debug\p3.exe

@@ -1,0 +1,10 @@
+
+import termcolor
+import pyfiglet
+
+print(dir(termcolor))
+
+# print(pyfiglet.figlet_format("Ahmed"))
+# print(termcolor.colored("Ahmed",color="yellow"))
+
+print(termcolor.colored(pyfiglet.figlet_format("Zeyad"),color="red"))

@@ -1,0 +1,4 @@
+﻿  p1.cpp
+C:\Users\MF\VS\repos\Codeforces\p1\p1.cpp(18,14): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+C:\Users\MF\VS\repos\Codeforces\p1\p1.cpp(23,14): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+  p1.vcxproj -> C:\Users\MF\VS\repos\Codeforces\p1\x64\Debug\p1.exe
